@@ -1,2 +1,2 @@
 # stellar-drift
-this is about a game that I made for hackathon
+this is about a game that I made for hackathon in our college
